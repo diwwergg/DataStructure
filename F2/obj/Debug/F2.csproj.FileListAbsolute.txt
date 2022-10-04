@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\bin\Debug\F2.exe.config
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\bin\Debug\F2.exe
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\bin\Debug\F2.pdb
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\bin\Debug\Collections.dll
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\bin\Debug\Lists.dll
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\bin\Debug\Collections.pdb
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\bin\Debug\Lists.pdb
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\obj\Debug\F2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\obj\Debug\F2.Form1.resources
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\obj\Debug\F2.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\obj\Debug\F2.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\obj\Debug\F2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\obj\Debug\F2.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\obj\Debug\F2.exe
+C:\Users\LENOVO\Desktop\โค้ด Data C#\DataStructure\F2\obj\Debug\F2.pdb

@@ -1,0 +1,9 @@
+C:\Users\DiwwerGG\source\repos\DataStructure\List\bin\Debug\List.dll
+C:\Users\DiwwerGG\source\repos\DataStructure\List\bin\Debug\List.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\List\bin\Debug\Collections1.dll
+C:\Users\DiwwerGG\source\repos\DataStructure\List\bin\Debug\Collections1.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\List\obj\Debug\Lists.csproj.AssemblyReference.cache
+C:\Users\DiwwerGG\source\repos\DataStructure\List\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\DiwwerGG\source\repos\DataStructure\List\obj\Debug\Lists.csproj.CopyComplete
+C:\Users\DiwwerGG\source\repos\DataStructure\List\obj\Debug\List.dll
+C:\Users\DiwwerGG\source\repos\DataStructure\List\obj\Debug\List.pdb

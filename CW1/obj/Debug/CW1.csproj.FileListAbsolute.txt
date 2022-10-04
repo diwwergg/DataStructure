@@ -1,0 +1,13 @@
+C:\Users\DiwwerGG\source\repos\DataStructure\CW1\bin\Debug\CW1.exe.config
+C:\Users\DiwwerGG\source\repos\DataStructure\CW1\bin\Debug\CW1.exe
+C:\Users\DiwwerGG\source\repos\DataStructure\CW1\bin\Debug\CW1.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\CW1\bin\Debug\Collections1.dll
+C:\Users\DiwwerGG\source\repos\DataStructure\CW1\bin\Debug\Collections1.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\CW1\obj\Debug\CW1.csproj.AssemblyReference.cache
+C:\Users\DiwwerGG\source\repos\DataStructure\CW1\obj\Debug\CW1.Form1.resources
+C:\Users\DiwwerGG\source\repos\DataStructure\CW1\obj\Debug\CW1.Properties.Resources.resources
+C:\Users\DiwwerGG\source\repos\DataStructure\CW1\obj\Debug\CW1.csproj.GenerateResource.cache
+C:\Users\DiwwerGG\source\repos\DataStructure\CW1\obj\Debug\CW1.csproj.CoreCompileInputs.cache
+C:\Users\DiwwerGG\source\repos\DataStructure\CW1\obj\Debug\CW1.csproj.CopyComplete
+C:\Users\DiwwerGG\source\repos\DataStructure\CW1\obj\Debug\CW1.exe
+C:\Users\DiwwerGG\source\repos\DataStructure\CW1\obj\Debug\CW1.pdb

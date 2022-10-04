@@ -1,0 +1,14 @@
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\bin\Debug\Game1.exe.config
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\bin\Debug\Game1.exe
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\bin\Debug\Game1.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\bin\Debug\Stacks.dll
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\bin\Debug\Stacks.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\obj\Debug\Game1.csproj.AssemblyReference.cache
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\obj\Debug\Game1.csproj.CoreCompileInputs.cache
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\obj\Debug\Game1.csproj.CopyComplete
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\obj\Debug\Game1.exe
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\obj\Debug\Game1.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\bin\Debug\Collections1.dll
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\bin\Debug\List.dll
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\bin\Debug\Collections1.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\Game1\bin\Debug\List.pdb

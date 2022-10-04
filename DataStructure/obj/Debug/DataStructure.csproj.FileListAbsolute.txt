@@ -1,0 +1,16 @@
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\bin\Debug\DataStructure.exe.config
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\bin\Debug\DataStructure.exe
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.csproj.AssemblyReference.cache
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.exe
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\bin\Debug\Collections1.dll
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\bin\Debug\Collections1.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\obj\Debug\DataStructure.csproj.CopyComplete
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\bin\Debug\Sets.dll
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\bin\Debug\Stacks.dll
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\bin\Debug\Sets.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\bin\Debug\Stacks.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\bin\Debug\Queues.dll
+C:\Users\DiwwerGG\source\repos\DataStructure\DataStructure\bin\Debug\Queues.pdb

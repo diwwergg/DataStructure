@@ -1,0 +1,6 @@
+C:\Users\DiwwerGG\source\repos\DataStructure\Queues\bin\Debug\Queues.dll
+C:\Users\DiwwerGG\source\repos\DataStructure\Queues\bin\Debug\Queues.pdb
+C:\Users\DiwwerGG\source\repos\DataStructure\Queues\obj\Debug\Queues.csproj.AssemblyReference.cache
+C:\Users\DiwwerGG\source\repos\DataStructure\Queues\obj\Debug\Queues.csproj.CoreCompileInputs.cache
+C:\Users\DiwwerGG\source\repos\DataStructure\Queues\obj\Debug\Queues.dll
+C:\Users\DiwwerGG\source\repos\DataStructure\Queues\obj\Debug\Queues.pdb
